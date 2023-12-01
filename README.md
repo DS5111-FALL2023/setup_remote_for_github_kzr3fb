@@ -38,7 +38,12 @@ user.email=efrainolivaresuva@gmail.com
 * Send a link in Canvas to your repository
 * add a screenshot **TO YOUR README.md** of an `ls` showing the files in `~/.ssh`, followed by the `git config...` and `ssh -T...` commands showing the expected input.  Look at [github docs image markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images)
 
-![test](.../Screen Shot 2023-12-01 at 5.44.12 PM.png)
+<img width="1028" alt="Screen Shot 2023-12-01 at 5 44 12 PM" src="https://github.com/DS5111-FALL2023/setup_remote_for_github_kzr3fb/assets/105132245/e8e3e279-746e-43b3-b688-b5b854bf222d">
+
+<img width="1028" alt="Screen Shot 2023-12-01 at 5 44 42 PM" src="https://github.com/DS5111-FALL2023/setup_remote_for_github_kzr3fb/assets/105132245/75bb8071-001e-4538-81b7-cf8c6cc0f4a6">
+
+<img width="1028" alt="Screen Shot 2023-12-01 at 5 46 07 PM" src="https://github.com/DS5111-FALL2023/setup_remote_for_github_kzr3fb/assets/105132245/d3e742a8-5f86-4ab5-bdb8-7781ab8f5ac5">
+
 
 # Quiz - 10 points
 * A quiz will follow wich will focus just on this content.  It's `open book` or `open internet`.
